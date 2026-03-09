@@ -6,6 +6,7 @@
 
 ---
 
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Friendly-brightgreen)](https://github.com/WebWeaversWorld/Nebula_Drift/blob/main/CODE_OF_CONDUCT.md)
 [![Open Issues](https://img.shields.io/github/issues/WebWeaversWorld/Nebula_Drift)](https://github.com/WebWeaversWorld/Nebula_Drift/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/WebWeaversWorld/Nebula_Drift)](https://github.com/WebWeaversWorld/Nebula_Drift/pulls)
 
