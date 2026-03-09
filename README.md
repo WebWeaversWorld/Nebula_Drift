@@ -1,9 +1,9 @@
 # Nebula Drift
 
-[![Build Anesk](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml/badge.svg)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/actions/workflows/build.yml)
+[![Build Nebula Drift](https://github.com/LilPwinc3ss554/Nebula_Drift/actions/workflows/build.yml/badge.svg)](https://github.com/LilPwinc3ss554/Nebula_Drift/actions/workflows/build.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
-[![Download](https://img.shields.io/github/v/release/LilPwinc3ss554/Anesk-v1.5.7?label=Download&logo=github&cacheSeconds=60)](https://github.com/LilPwinc3ss554/Anesk-v1.5.7/releases/latest)
+[![Download](https://img.shields.io/github/v/release/LilPwinc3ss554/Nebula_Drift?label=Download&logo=github&cacheSeconds=60)](https://github.com/LilPwinc3ss554/Nebula_Drift/releases/latest)
 
 A fast-paced **arcade space survival game** built in pure **Java Swing**.
 
