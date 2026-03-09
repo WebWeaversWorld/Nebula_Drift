@@ -4,6 +4,11 @@
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 [![Download](https://img.shields.io/badge/Download-Nebula_Drift.jar-purple?logo=github)](https://github.com/WebWeaversWorld/Nebula_Drift/releases/download/java/Nebula_Drift.jar)
 
+---
+
+[![Open Issues](https://img.shields.io/github/issues/WebWeaversWorld/Nebula_Drift)](https://github.com/WebWeaversWorld/Nebula_Drift/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/WebWeaversWorld/Nebula_Drift)](https://github.com/WebWeaversWorld/Nebula_Drift/pulls)
+
 A fast-paced **arcade space survival game** built in pure **Java Swing**.
 
 Pilot a drifting spacecraft through a colourful nebula, dodge enemies, collect power-ups, and rack up points while surviving increasingly chaotic waves.
