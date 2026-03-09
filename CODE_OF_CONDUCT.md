@@ -38,7 +38,7 @@ This Code of Conduct applies:
 ---
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the repository maintainer ([@WebWeaversWorld]([https://github.com/WebWeaversWorld](https://github.com/WebWeaversWorld))).  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the repository maintainer [@WebWeaversWorld](https://github.com/WebWeaversWorld).  
 
 All complaints will be reviewed and dealt with fairly. Maintainers are obligated to keep reports private.
 
